@@ -1,0 +1,16 @@
+Graphe.constructeur_nothrow 18 0.000600134
+Graphe.constructeur_nbrDeSommets 18 0.000546201
+Graphe.resize 18 0.000412743
+Graphe.nommer 18 0.00040266
+Graphe.nommerSommetTropGrand 18 0.000452148
+Graphe.ajouterArc 18 0.000443148
+Graphe.enleverArc 18 0.000471896
+Graphe.arcExiste 18 0.000435509
+Graphe.listerSommetsAdjacents 18 0.000443236
+Graphe.accesseur_nomSommet 18 0.000426403
+Graphe.accesseur_numeroSommet 18 0.000447806
+Graphe.accesseur_nombrSommets 18 0.000391373
+Graphe.accesseur_nombreArc 18 0.000415067
+Graphe.accesseur_PonderationsArc 17 0.000450108
+ReseauAerien.ajouterPonderations 2 0.00393092
+---
